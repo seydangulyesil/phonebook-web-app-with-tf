@@ -1,0 +1,8 @@
+region      = "us-east-1"
+hosted_zone = "example.com"
+key_name    = "my-key"
+git_token   = "my-git-token"
+git_name    = "my-git-username"
+repo_name   ="my-repo-name"
+db_username = "admin"
+db_password = "Abc12345."
